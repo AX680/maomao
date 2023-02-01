@@ -1,6 +1,7 @@
 QLScriptPublic 青龙脚本公共库
 =====================
-http://116.196.111.26:15000一些小项目
+代挂的小项目
+http://116.196.111.26:15000
 拉库命令
 ql repo https://ghproxy.com/https://github.com/AX680/maomao.git
 
